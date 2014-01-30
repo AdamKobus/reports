@@ -1,6 +1,6 @@
 {
   "description": "my fancy report name", 
-  "rev": 10, 
+  "rev": "1", 
   "content": {
     "charts": {
       "chart_Pie_0": {
@@ -107,6 +107,6 @@
     "firstChartKey": "chart_Pie_0"
   }, 
   "updatedAt": "2014-01-10T06:16:14Z", 
-  "id": 120, 
+  "id": "11", 
   "createdAt": "2014-01-02T03:15:15Z"
 }
